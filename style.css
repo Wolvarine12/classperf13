@@ -1,0 +1,13 @@
+body{
+    background-color: chartreuse;
+    
+}
+p{
+    color: red;
+}
+.class1{
+    background-image: url("img/the\ boys.webp"); height: auto; width: 100%;
+    background-repeat: no-repeat;
+    background-position: center center;
+   border-color: black darkgoldenrod;
+}
